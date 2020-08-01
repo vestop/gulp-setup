@@ -1,0 +1,29 @@
+{
+    "name": "gulp-start",
+    "version": "1.0.0",
+    "description": "vestopz gulp file",
+    "main": "index.js",
+    "devDependencies": {
+        "browser-sync": "^2.26.7",
+        "del": "^5.1.0",
+        "gulp": "^4.0.2",
+        "gulp-autoprefixer": "^7.0.1",
+        "gulp-cli": "^2.3.0",
+        "gulp-concat": "^2.6.1",
+        "gulp-rename": "^2.0.0",
+        "gulp-sass": "^4.1.0",
+        "gulp-uglify": "^3.0.2",
+        "normalize.css": "^8.0.1",
+        "wow.js": "^1.2.2",
+        "animate.css": "^4.1.0",
+    },
+    "dependencies": {
+        "magnific-popup": "^1.1.0",
+        "slick-carousel": "^1.8.1",
+            },
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "JaVoHiR",
+    "license": "ISC"
+}
